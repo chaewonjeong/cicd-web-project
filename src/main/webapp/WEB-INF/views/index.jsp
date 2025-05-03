@@ -13,6 +13,7 @@
             <h3>Version: 3.2.5</h3>
             <h3>chaewon</h3>
             <h3>chaewon</h3>
+            <h3>chaewon</h3>
             <h3>Jenkins -> Ansible -> k8s</h3>
             <h3>deployment 삭제후 새로운 pod 생성</h3>
         </body>
