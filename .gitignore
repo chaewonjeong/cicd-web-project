@@ -1,0 +1,39 @@
+# Maven
+/target/
+!.mvn/wrapper/maven-wrapper.jar
+.mvn/timing.properties
+
+# Eclipse, IntelliJ IDEA, NetBeans IDE
+*.iml
+.idea/
+*.ipr
+*.iws
+*.bak
+*.swp
+*.swo
+*.log
+*.class
+*.jar
+*.war
+*.ear
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs
+logs/
+*.log
+
+# Sonar
+.sonar/
+.scannerwork/
+
+# JetBrains
+out/
+
+# VS Code
+.vscode/
+
+# Env
+.env
